@@ -1,7 +1,5 @@
-invite to server : ();
+invite to server : https://discord.gg/8ZnUeZG6;
 
-[image]()
-[image]()
 # 🇭 🇴 🇺 🇸 🇪   🇫 🇦 🇷 🇲 🇮 🇳 🇬
 
 **🇻🇪 Español** \
