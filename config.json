@@ -1,4 +1,6 @@
 {
   "repo": "myrepo",
-  "adminID": "xxxxxxxx"
+  "adminID": "xxxxxxxx",
+  "inviteURL": "you server invite",
+  "inviteBOT": "you bot invite url"
   }
