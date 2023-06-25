@@ -1,3 +1,7 @@
+invite to server : ();
+
+[image]()
+[image]()
 # 🇭 🇴 🇺 🇸 🇪   🇫 🇦 🇷 🇲 🇮 🇳 🇬
 
 **🇻🇪 Español** \
@@ -10,7 +14,9 @@ un bot de discord con economia global y economia por usuarios
 
 **📅 modulos**
  - `discord.js @12.5.3`
- - `dotenv @newer`
+ - `dotenv`
+ - `fs`
+ - `os`
 
 # open source
 el bot es libre de uso o uso de su codigo \
@@ -20,4 +26,6 @@ __**siempre y cuando se utilice para mejoras**__
 - `node index.js` \
 **si se necesita instalar los modulos...**
 - `npm i discord.js@12.5.3`
-- `npm i dotenv
+- `npm i dotenv`
+- `npm i fs`
+- `npm i os`
